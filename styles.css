@@ -1,0 +1,18 @@
+h1 {
+    text-align: center;
+    color:white;
+}   
+body {
+    background-image: url("clover-1225988.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+}
+p {
+    text-align: center;
+    font-family: cursive;
+    font-style: italic;
+}
+section{
+    text-align:center;
+}
